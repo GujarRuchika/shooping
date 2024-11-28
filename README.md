@@ -1,2 +1,0 @@
-# shooping
-this is website
